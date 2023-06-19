@@ -450,14 +450,14 @@ font-weight: 500;
       .MyBtn button {
         font-size: 18px;
         padding: 10px 25px;
-           margin-top: -13px;
+           margin-top: -10px;
       }
     
   
     .RulesBox,
     .question,
     .result_box {
-      max-width: 480px;
+      max-width: 500px;
     }
   }
 
