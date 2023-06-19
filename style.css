@@ -439,7 +439,7 @@ font-weight: 500;
 
 @media only screen and (min-width: 768px) {
     .quizapp {
-      max-width: 500px;
+      max-width: 480px;
      
     }
   
@@ -447,17 +447,13 @@ font-weight: 500;
         width: 50%;
       }
     
-      .MyBtn button {
-        font-size: 18px;
-        padding: 10px 25px;
-           margin-top: -10px;
-      }
+  
     
   
     .RulesBox,
     .question,
     .result_box {
-      max-width: 500px;
+      max-width: 480px;
     }
   }
 
